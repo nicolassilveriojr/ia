@@ -1,4 +1,5 @@
 import pygame
+print(pygame.ver)
 import random
 import math
 
